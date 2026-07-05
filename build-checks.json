@@ -1,0 +1,12 @@
+{
+  "js_syntax_ok": true,
+  "js_syntax_error": "",
+  "files_present": true,
+  "uses_png_flags": true,
+  "network_first_sw": true,
+  "copy_has_prompt_fallback": true,
+  "clear_twice_system": true,
+  "storage_migration": true,
+  "first_load_order_settings_records": true,
+  "no_svg_flag_refs": true
+}
